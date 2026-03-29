@@ -1,7 +1,7 @@
 ---
 name: "NextJs"
 version: "1.0"
-tags: []
+tags: ["test"]
 tech: []
 ai: []
 ---
