@@ -1,5 +1,52 @@
 {
   "repo": "alimon777/skillvault",
-  "generatedAt": "2026-03-29T16:10:41.013Z",
-  "skills": []
+  "generatedAt": "2026-03-29T16:59:07.269Z",
+  "skills": [
+    {
+      "path": "skills/nextjs.md",
+      "name": "NextJs",
+      "tech": [
+        ""
+      ],
+      "ai": [
+        ""
+      ],
+      "tags": [
+        ""
+      ],
+      "version": "1.0",
+      "sha": "1473e9538f7b9f0740d6ce7967ac61e910c6e824"
+    },
+    {
+      "path": "skills/react-best-practices.md",
+      "name": "react best practices",
+      "tech": [
+        ""
+      ],
+      "ai": [
+        ""
+      ],
+      "tags": [
+        ""
+      ],
+      "version": "1.0",
+      "sha": "1e9426171a87aabbf2ae1f721a0087e33ce2341e"
+    },
+    {
+      "path": "skills/test.md",
+      "name": "test",
+      "tech": [
+        "sda"
+      ],
+      "ai": [
+        "copilot"
+      ],
+      "tags": [
+        "abc",
+        "tst"
+      ],
+      "version": "1.0",
+      "sha": "4df7f1e7e3af7c244064e7c156cbc56d34f367b2"
+    }
+  ]
 }
