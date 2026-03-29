@@ -6,6 +6,4 @@ tech: ["sda"]
 ai: ["copilot"]
 ---
 
-# test
-
-Describe the skill instructions here.
+I am superman
